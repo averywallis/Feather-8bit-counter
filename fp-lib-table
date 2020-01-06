@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Feather-8bit-counter)(type KiCad)(uri ${KIPRJMOD}/Feather-8bit-counter.pretty)(options "")(descr ""))
+)
